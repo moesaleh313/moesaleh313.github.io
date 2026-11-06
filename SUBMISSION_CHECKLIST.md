@@ -1,0 +1,15 @@
+# Submission checklist
+- [ ] Approved Simpson template requirement verified and satisfied
+- [ ] Name and accurate personal details on every page
+- [ ] Genuine projects, experience, education and skills
+- [ ] Adobe Express resume PDF exported and linked
+- [ ] All links and email addresses corrected
+- [ ] Site tested on phone, tablet, desktop
+- [ ] Chrome and Firefox testing completed
+- [ ] HTML and CSS validated; errors resolved
+- [ ] Two actual peers reviewed site and feedback recorded
+- [ ] Improvements implemented and reflected on
+- [ ] Peer Review Feedback Form completed and submitted separately
+- [ ] GitHub Pages live URL tested
+- [ ] Final ZIP uploaded to vUWS
+- [ ] Live website link submitted to vUWS
